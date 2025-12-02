@@ -1,5 +1,5 @@
 # Install required packages (only if not already installed)
-packages <- c("tzdb", "lubridate", "timechange", "tidyverse", "psych", 
+packages <- c("tzdb", "lubridate", "Formula", "timechange", "tidyverse", "psych", 
               "afex", "emmeans", "effectsize", "knitr", "ggplot2", 
               "readxl", "janitor", "ggpubr", "pwr")
 
